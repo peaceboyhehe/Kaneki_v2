@@ -3537,6 +3537,11 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             break
 case 'allmenu': {
   	anu = `
+Hi 👋 I am Kaneki made by Roar.
+How can I help you 😊
+
+🍷 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 🍷
+
 ┏━「 *${botname}* 」━━⭓ 
 ┃╔══🥂「 MAIN 」🥂
 ┃╠ ${prefix}alive
