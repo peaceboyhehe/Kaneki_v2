@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//                              Kaneki V2 by 𝕽𝖔𝖆𝖗 𝕴𝖓𝖘𝖆𝖓𝖊
+//Synthesized by  𝓐𝓛𝓞𝓣
 //
 //════════════════════════════//
 
@@ -19,23 +19,23 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['GURU']
-global.premium = ['+917605902011']
-global.ownernomer = '+917605902011'
-global.ownername = 'GURU'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/Guru322'
-global.region = 'India, odisha'
-global.sc = 'https://github.com/Guru322'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = 'GURU'
+global.owner = ['𝓡𝓞𝓐𝓡']
+global.premium = ['+917902653386']
+global.ownernomer = '+917902653386'
+global.ownername = '𝓡𝓞𝓐𝓡'
+global.botname = 'Kaneki'
+global.footer = '©Roar Alot.'
+global.ig = 'https://github.com/'
+global.region = 'India'
+global.sc = 'https://github.com/'
+global.myweb = 'No Results 😕'
+global.packname = 'Kaneki'
+global.author = '𝓡𝓞𝓐𝓡'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'Done ✨',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
