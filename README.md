@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/c74255090f02471e17f04.jpg" alt="nz" width="350"/>
 </p>
 
-## Gojo-Satoru
+## 𝐊𝐚𝐧𝐞𝐤𝐢
 
 > 
 
-> [Automated Multi Device whatsapp bot created] by [GURU]
+> [Automated Multi Device whatsapp bot created] by [ROAR]
 
 > Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
