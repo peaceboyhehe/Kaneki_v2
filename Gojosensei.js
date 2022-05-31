@@ -200,11 +200,11 @@ module.exports = KanekiMdNx = async (KanekiMdNx, m, chatUpdate, store) => {
 	
 	//group target \\
 const reply = (teks) => {
-            KanekiMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` Gojo-Satoru`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./KanekiMedia/Kaneki.jpg`),"sourceUrl": "https://telegra.ph/file/8bbe8a7de5c351dfcb077.jpg"}}}, { quoted: m})
+            KanekiMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` Kaneki`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./KanekiMedia/Kaneki.jpg`),"sourceUrl": "https://telegra.ph/file/2bca0592d3485491272f5.jpg"}}}, { quoted: m})
         }
         
         const replay = (teks) => {
-            KanekiMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` Gojo-Satoru`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./KanekiMedia/Kaneki.jpg`),"sourceUrl": "https://telegra.ph/file/8bbe8a7de5c351dfcb077.jpg"}}}, { quoted: m})
+            KanekiMdNx.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botname}`,"body": ` Kaneki`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./KanekiMedia/Kaneki.jpg`),"sourceUrl": "https://telegra.ph/file/2bca0592d3485491272f5.jpg"}}}, { quoted: m})
         }
 	
         //Public & Self\\
@@ -1776,7 +1776,7 @@ break
                                     id: 'owner'
                                 }
                             }]
-                      let txt = `「 GOJO-SATORU HERE🎉 」\n\n${text}`
+                      let txt = `「 KANEKI HERE🎉 」\n\n${text}`
                       KanekiMdNx.send5ButImg(i, txt, KanekiMdNx.user.name, global.thumb, btn)
                     }
                 reply(`Successful Sending Broadcast To ${anu.length} Group(s)`)
@@ -1810,7 +1810,7 @@ break
                                     id: 'owner'
                                 }
                             }]
-                      let txt = `「 GOJO-SATORU HERE 🎉」\n\n${text}`
+                      let txt = `「 KANEKI HERE 🎉」\n\n${text}`
                       KanekiMdNx.send5ButImg(yoi, txt, KanekiMdNx.user.name, global.thumb, btn)
 		}
 		reply('Broadcast Success')
