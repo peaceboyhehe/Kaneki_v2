@@ -10,7 +10,7 @@
 
 > Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
-> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/nexusNw/Gojo-Satoru/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
+> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/peaceboyhehe/Kaneki_v2/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
 
 
 </br>
