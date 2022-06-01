@@ -3293,7 +3293,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./KanekiMedia/Kaneki.jpg')},
                             hydratedFooterText: `┌─❖
-│「 Hi 👋 」
+│「 🍒🎀 𝐇𝐢 👋 𝐈 𝐚𝐦 𝐊𝐚𝐧𝐞𝐤𝐢 𝐦𝐚𝐝𝐞 𝐛𝐲 𝐑𝐨𝐚𝐫.
+𝐇𝐨𝐰 𝐜𝐚𝐧 𝐈 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮 😊🌸 」
 └┬❖ 「 ${pushname} 」
 ┌┤✑  Shashi burina thaicho🎉
 ││✑  🐦🖐️!!
@@ -3354,7 +3355,8 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             jpegThumbnail: fs.readFileSync('./KanekiMedia/Kaneki.jpg')}, 
                             hydratedFooterText: `
 ┌─❖
-│「 Hi 👋 」
+│「 🍒🎀 𝐇𝐢 👋 𝐈 𝐚𝐦 𝐊𝐚𝐧𝐞𝐤𝐢 𝐦𝐚𝐝𝐞 𝐛𝐲 𝐑𝐨𝐚𝐫.
+𝐇𝐨𝐰 𝐜𝐚𝐧 𝐈 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮 😊🌸 」
 └┬❖ 「 ${pushname} 」
 ┌┤✑  Daijobka sempai?😄
 │└───────────────┈ ⳹
@@ -3537,8 +3539,8 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             break
 case 'allmenu': {
   	anu = `
-Hi 👋 I am Kaneki made by Roar.
-How can I help you 😊
+🍒🎀 𝐇𝐢 👋 𝐈 𝐚𝐦 𝐊𝐚𝐧𝐞𝐤𝐢 𝐦𝐚𝐝𝐞 𝐛𝐲 𝐑𝐨𝐚𝐫.
+𝐇𝐨𝐰 𝐜𝐚𝐧 𝐈 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮 😊🌸
 
 🍷 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 🍷
 
@@ -3784,8 +3786,8 @@ How can I help you 😊
 ┃╠${prefix}shio (indo)
 ┗━
 ┏━
-┃🎯 Use the Commands correctly !
-┃🎁 Made by 𝓡𝓞𝓐𝓡 𝓘𝓝𝓢𝓐𝓝𝓔
+┃🎯 𝐔𝐬𝐞 𝐭𝐡𝐞 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐜𝐨𝐫𝐫𝐞𝐜𝐭𝐥𝐲 !
+┃🎁 𝐌𝐚𝐝𝐞 𝐛𝐲 𝓡𝓞𝓐𝓡 𝓘𝓝𝓢𝓐𝓝𝓔
 ┃╚═══════🆁🅾🅰🆁 🅰🅻🅾🆃
 ┗━「 *Created By ${ownername}*  𖠌」━⭓`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
