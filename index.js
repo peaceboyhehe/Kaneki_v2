@@ -87,7 +87,7 @@ async function startKanekiMdNx() {
         if (!KanekiMdNx.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
         if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
         m = smsg(KanekiMdNx, mek, store)
-        require("./Gojosensei")(KanekiMdNx, m, chatUpdate, store)
+        require("./Kanekisensie")(KanekiMdNx, m, chatUpdate, store)
         } catch (err) {
             console.log(err)
         }
