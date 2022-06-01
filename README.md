@@ -124,8 +124,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/918129624000"><img src="https://img.shields.io/badge/Contact Nexus-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ"><img src="https://img.shields.io/badge/Subscribe Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://wa.me/917902653386"><img src="https://img.shields.io/badge/Contact Roar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.youtube.com/channel/UCOStONe9r1mc5HdpW8LOsmQ"><img src="https://img.shields.io/badge/Subscribe 𝐀𝐋𝐎𝐓-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 </details>
@@ -140,4 +140,4 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 * [`AflahXrd`](https://github.com/nexusNw)
 
 
-License: [MIT](https://github.com/Gojo-Satoru/LICENSE)
+License: [MIT]([https://github.com/peaceboyhehe/LICENSE)
