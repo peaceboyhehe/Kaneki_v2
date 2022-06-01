@@ -15,10 +15,10 @@
 
 </br>
 
-<a href="https://github.com/nexusNw"><img title="Author" src="https://img.shields.io/badge/Author-GURU-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/nexusNw/Gojo-Satoru"><img title="Stars" src="https://img.shields.io/github/stars/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/nexusNw/Gojo-Satoru/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/nexusNw/Gojo-Satoru/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nexusNw/Gojo-Satoru?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+<a href="https://github.com/peaceboyhehe"><img title="Author" src="https://img.shields.io/badge/Author-Roar-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/peaceboyhehe/Kaneki_v2"><img title="Stars" src="https://img.shields.io/github/stars/Roar ALOT/Kaneki?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/peaceboyhehe/Kaneki_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Roar ALOT/Kaneki?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/peaceboyhehe/Kaneki_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Roar ALOT/Kaneki?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 ---
 
