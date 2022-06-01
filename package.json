@@ -12,13 +12,14 @@
     "whatsapp",
     "2022",
     "GojoSatoru",
+    "Kaneki",
     "base",
     "baileys-md",
     "bot",
     "bot-md",
     "multi-device"
   ],
-  "author": "NexusNw",
+  "author": "Roar ALOT",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
