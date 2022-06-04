@@ -19,7 +19,7 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['𝓡𝓞𝓐𝓡']
+global.owner = ['+917902653386']
 global.premium = ['+917902653386']
 global.ownernomer = '+917902653386'
 global.ownername = '𝓡𝓞𝓐𝓡'
