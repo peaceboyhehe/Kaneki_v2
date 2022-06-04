@@ -3530,7 +3530,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             }
             break
     case 'donasi': case 'donate': case 'sewabot': case 'sewa': {
-                KanekiMdNx.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c74255090f02471e17f04.jpg' }, caption: `*Hi Bro ${m.pushName}*\nDonation section is currently down🥲 , I know you are happy but me 🥲💔\n` }, { quoted: m })
+                KanekiMdNx.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c74255090f02471e17f04.jpg' }, caption: `*Hi Bro ${m.pushName}*\nContact Owner: wa.me/917902653386\n` }, { quoted: m })
             }
             break
             case 'sc': case 'script': {
